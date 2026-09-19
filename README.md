@@ -17,6 +17,6 @@ Desenvolver habilidades em análise de dados por meio de construção de indicad
 
 ## Status
 
-- {x} Aula 1 - Consultas básicas
+- {X} Aula 1 - Consultas básicas
 - {X} Aula 2 - KPIs de Produção
-- { } Aula 3 - JOIN
+- {X} Aula 3 - JOIN
