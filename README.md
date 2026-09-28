@@ -57,6 +57,10 @@ O objetivo deste projeto é evoluir do básico ao avançado em Analise de Dados,
 - Diferença entre WHERE e HEVING
 
 
+### Dashboard Inicial
+
+![Dashboard de produção em uma planilha do Google Sheets. No topo, os indicadores mostram Produção Total 2070, Média 414, Maior Produção 440 e Menor Produção 395. O gráfico Produção por Turno mostra T1 com 860 peças, T2 com 815 peças e T3 com 395 peças. A planilha está aberta em um ambiente de trabalho digital, com células, barras de ferramentas e abas visíveis, apresentando os resultados de forma objetiva.](dashboard/dashboard_producao_v1.png)
+
 ## Sobre este projeto
 
 Este repositório registra minha evolução em Análise de Dados através da construção de consultas SQL, indicadores e projetos práticos, criando um histórico contínuo de aprendizado e desenvolvimento.
